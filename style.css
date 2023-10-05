@@ -1,0 +1,34 @@
+h1 {
+  font-size: 12px;
+}
+
+div p {
+  font-size: 10px;
+}
+
+button.submit {
+  padding: 10px;
+}
+
+.submit {
+  color: red;
+}
+
+section .text {
+  padding: 12px;
+}
+
+div:nth-child(4) > span {
+}
+
+.menu {
+  padding: 15px;
+}
+
+.form,
+.div,
+p {
+  padding: 12px;
+  font-size: 24px;
+  border: 1px solid red;
+}
